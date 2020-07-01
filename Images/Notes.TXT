@@ -1,0 +1,19 @@
+Arduino BlueTooth Diagram idea
+https://www.instructables.com/id/Arduino-Bluetooth-Master-and-Slave-Using-Any-HC-05/
+
+BlueTooth Pairing:
+https://www.youtube.com/watch?v=BXXAcFOTnBo
+
+
+
+
+Please modify the original request (FIT 16760) so that if the title = Summer Associate, no Hiring Manager is required (as a timekeeper). 
+Do not add this before CAB of June 9.  It can even wait until we have further changes to FWM
+
+
+1.315+
+
+
+.5 x 1.4.
+
+98d3,51,fdf772
